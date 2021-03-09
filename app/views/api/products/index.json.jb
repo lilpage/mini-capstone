@@ -1,0 +1,3 @@
+@products.map { |product|
+  render partial: "product", locals: { prodcut: product }
+}

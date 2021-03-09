@@ -1,0 +1,5 @@
+{
+  name: product.name
+  price: prodcut.price
+  description: prodcut.description
+}
